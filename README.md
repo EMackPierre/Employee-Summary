@@ -29,9 +29,11 @@
 
    Type "node app.js" in the command line. Once done, the user will be asked for information regarding the manager and then for the team members. The user may input an number of team numbers and they can be a mix of engineers and interns. Once the user inputs all the team member information, the application will generate a HTML file with a nicely formatted team roster.
   
-  ![]()
+  ![Git](Employee Summary preview.gif)
+
+  ![Video Link] (https://drive.google.com/file/d/1gVrRb3-ScH32hQloB0kRsQu-WP49quTr/view)
   
-  Link to video demonstration: 
+  ![Photo] (Employee-Summary.PNG)
 
   ### Contributors
 
